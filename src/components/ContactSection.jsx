@@ -32,7 +32,7 @@ function ContactSection() {
     {
       id: 4,
       icon: FaMapMarkedAlt,
-      title: "Locaioo",
+      title: "Location",
       value: "Iran Yazd",
       link: null,
     },

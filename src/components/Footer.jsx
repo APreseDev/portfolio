@@ -6,7 +6,7 @@ function Footer() {
     >
       <div className="container md:p-12 p-4 justify-between flex flex-col md:flex-row items-center gap-4 md:gap-0 ">
         <div className="text-white text-2xl md:text-3xl font-black cursor-pointer">
-          PPORTFOLID<span className="text-primary">.</span>
+          PPORTFOLIO<span className="text-primary">.</span>
         </div>
 
         <p className="text-slate-600 text-sm md:text-base">
